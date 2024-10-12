@@ -16,3 +16,4 @@ The **Iris Flower Classification** project is an implementation of a machine lea
 - **Python**: Programming language used for data analysis and modeling.
 - **Pandas**: Library for data manipulation and analysis.
 - **NumPy**: Library for numerical computations.
+- **Scikit-learn**: Machine learning library for model building and evaluation.
